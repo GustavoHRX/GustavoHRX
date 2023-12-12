@@ -1,7 +1,7 @@
 ### Olá, meu nome é Gustavo! 🖖
 Esta é minha página do GitHub onde eu posto meu progresso como programador!
 
-SO's que uso:
+Sistemas Operacionais que uso:
 
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![MINT](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
@@ -21,7 +21,7 @@ SO's que uso:
 Minhas Redes sociais
 
 ![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![Gustavo Rodrigues](www.linkedin.com/in/gustavo-henrique-rodrigues-8253b5240)
+![Gustavo Rodrigues](https://www.linkedin.com/in/gustavo-henrique-rodrigues-8253b5240/)
 
 ![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 gustavohrodrigues78@gmail.com
