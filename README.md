@@ -3,7 +3,8 @@ Esta é minha página do GitHub onde eu posto meu progresso como programador!
 
 SO's que uso:
 
-![DEBIAN](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ![Meus status do GitHub](https://github-readme-stats.vercel.app/api?username=GustavoHRX&show_icons=true&theme=synthwave)
 
