@@ -21,7 +21,7 @@ Sistemas Operacionais que uso:
 Minhas Redes sociais
 
 ![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![Gustavo Rodrigues](https://www.linkedin.com/in/gustavo-henrique-rodrigues-8253b5240/)
+[Gustavo Rodrigues](https://www.linkedin.com/in/gustavo-henrique-rodrigues-8253b5240/)
 
 ![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 gustavohrodrigues78@gmail.com
