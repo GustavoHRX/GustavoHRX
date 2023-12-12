@@ -3,7 +3,8 @@ Esta é minha página do GitHub onde eu posto meu progresso como programador!
 
 SO's que uso:
 
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black): 
+![MINT](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
 ![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ![Meus status do GitHub](https://github-readme-stats.vercel.app/api?username=GustavoHRX&show_icons=true&theme=synthwave)
