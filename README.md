@@ -5,8 +5,6 @@ Esta é minha página do GitHub onde eu posto meu progresso como **programador**
 
 ![Meus status do GitHub](https://github-readme-stats.vercel.app/api?username=GustavoHRX&show_icons=true&theme=synthwave)
 
-![MInhas linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoHRX&theme=synthwave)
-
 ---
 
 ### Tecnologias que ando estudando atualmente 
