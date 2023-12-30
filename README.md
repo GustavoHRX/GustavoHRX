@@ -4,6 +4,7 @@ Apaixonado pela tecnologia e pela diferença que ela faz no nosso cotidiano!
 Esta é minha página do GitHub onde eu posto meu progresso como **programador**!
 
 ![Meus status do GitHub](https://github-readme-stats.vercel.app/api?username=GustavoHRX&show_icons=true&theme=synthwave)
+![Meus status do GutHUB](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)
 
 ---
 
