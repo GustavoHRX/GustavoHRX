@@ -1,13 +1,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="370px" align="right">
 
 <p align="left"> 
-  Olá, eu me chamo Gustavo!
-  Atualmente sou estudante de <Strong>Sistemas de Informação</Strong> explorando um pouco de <Strong>tudo</Strong> o que a vida pode oferecer!
-</p>
-
-<p align="left">
- Aqui vai uma mensagem para entrar em contato com você: ⤵️
-</p>
+  Olá, eu me chamo Gustavo!<br>
+  Atualmente sou estudante de <Strong>Sistemas de Informação</Strong> 
+</p> 
 
 <p align="left">
   <a href="mailto:gustavohrodrigues78@gmail.com" title="Gmail">
@@ -22,4 +18,13 @@
 <hr style="clear: both; border: none; border-top: 1px solid #ccc; margin-top: 20px;">
 <br>
 <br>
-<h1 align="center">Testante</h1>
+<br>
+<br>
+<h1 align="center">Jornada</h1>
+
+<div>
+          <img height=180em src="https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs&bg_color=gradient,4c4b7d,1e3c72&title_color=ffffff&text_color=ffffff&icon_color=c792ea&hide_border=true">
+          <img height=180em  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&bg_color=gradient,4c4b7d,1e3c72&title_color=ffffff&text_color=ffffff&icon_color=c792ea&hide_border=true">
+</div>
+
+
