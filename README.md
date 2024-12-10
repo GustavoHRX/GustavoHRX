@@ -23,8 +23,8 @@
 <h1 align="center">Jornada</h1>
 
 <div>
-          <img height=180em src="https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs&bg_color=gradient,4c4b7d,1e3c72&title_color=ffffff&text_color=ffffff&icon_color=c792ea&hide_border=true">
-          <img height=180em  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&bg_color=gradient,4c4b7d,1e3c72&title_color=ffffff&text_color=ffffff&icon_color=c792ea&hide_border=true">
+          <img height=180em src="https://github-readme-stats.vercel.app/api?username=gustavohrx&hide=contribs&bg_color=gradient,4c4b7d,1e3c72&title_color=ffffff&text_color=ffffff&icon_color=c792ea&hide_border=true">
+          <img height=180em  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohrx&layout=compact&show_icons=true&bg_color=gradient,4c4b7d,1e3c72&title_color=ffffff&text_color=ffffff&icon_color=c792ea&hide_border=true">
 </div>
 
 
