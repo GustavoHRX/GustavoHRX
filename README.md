@@ -1,12 +1,8 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 
 <p align="left"> 
   Olá, eu me chamo Gustavo!
   Atualmente sou estudante de <Strong>Sistemas de Informação</Strong> explorando um pouco de <Strong>tudo</Strong> o que a vida pode oferecer!
-</p>
-
-<p align="left">
- Atualmente focando em aprender Python para Gerar valor o dia a dia  
 </p>
 
 <p align="left">
