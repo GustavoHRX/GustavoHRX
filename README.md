@@ -6,7 +6,12 @@
 <h3 align="left">Introdução</h3>
 <p align="left"> 
   Olá, eu me chamo Gustavo!<br>
-  Atualmente sou estudante de <Strong>Sistemas de Informação</Strong> com foco em aprendizado contínuo
+  Atualmente sou estudante de <Strong>Sistemas de Informação</Strong> com foco em aprendizado contínuo!
+</p> 
+<br>
+<p align="left"> 
+  Sigo focando em aprender <Strong>Desenvolvimento Web</Strong>, tendo em mente ser Full-stack <br>
+  Porém quero um dia me dedicar a área de <Strong>Game-Development!</Strong>
 </p> 
 
 <hr style="clear: both; border: none; border-top: 1px solid #ccc; margin-top: 20px;">
