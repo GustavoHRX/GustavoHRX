@@ -15,13 +15,7 @@
 </p> 
 
 <hr style="clear: both; border: none; border-top: 1px solid #ccc; margin-top: 20px;">
-<h3 align="left">Conhecimentos</h3>
 
-<div>
- 
-</div>
-
-<hr style="clear: both; border: none; border-top: 1px solid #ccc; margin-top: 20px;">
 <h3 align="left">Redes Sociais</h3>
 
 <p align="left">
