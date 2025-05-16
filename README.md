@@ -46,4 +46,3 @@ Atualmente sou estudante de **Sistemas de Informação**, com foco em **aprendiz
 
 # <i>"Algumas vezes, o essêncial é o suficiente"</i>
 
-[![snake gif](https://github.com/GustavoHRX/GustavoHRX/blob/output/github-contribution-grid-snake.svg)](https://github.com/GustavoHRX)
