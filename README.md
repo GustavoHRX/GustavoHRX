@@ -1,24 +1,24 @@
 
 ```
-███████╗██╗   ██╗ ██████╗ ███████╗████████╗ ██████╗ ██╗  ██╗
-██╔════╝██║   ██║██╔═══██╗██╔════╝╚══██╔══╝██╔═══██╗██║ ██╔╝
-█████╗  ██║   ██║██║   ██║███████╗   ██║   ██║   ██║█████╔╝ 
-██╔══╝  ██║   ██║██║   ██║╚════██║   ██║   ██║   ██║██╔═██╗ 
-██║     ╚██████╔╝╚██████╔╝███████║   ██║   ╚██████╔╝██║  ██╗
-╚═╝      ╚═════╝  ╚═════╝ ╚══════╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝
+  _____           _                   _               
+ / ____|         | |                 | |              
+| |  __ _   _ ___| |_ __ ___   _____ | |__  _ ____  __
+| | |_ | | | / __| __/ _` \ \ / / _ \| '_ \| '__\ \/ /
+| |__| | |_| \__ \ || (_| |\ V / (_) | | | | |   >  < 
+ \_____|\__,_|___/\__\__,_| \_/ \___/|_| |_|_|  /_/\_\
 ```
 
-## 🕹️ Introdução
+##  Introdução
 
-🧑‍💻 Olá, eu me chamo **Gustavo**!  
-🎓 Atualmente sou estudante de **Sistemas de Informação**, com foco em **aprendizado contínuo**!
+ Olá, eu me chamo **Gustavo**!  
+Atualmente sou estudante de **Sistemas de Informação**, com foco em **aprendizado contínuo**!
 
-👾 Sigo focando em aprender **Desenvolvimento Web**, tendo em mente ser **Full-stack**.  
-🚀 Porém quero um dia me dedicar à área de **Game Development**, unindo código e criatividade para criar experiências únicas!
+ Sigo focando em aprender **Desenvolvimento Web**, tendo em mente ser **Full-stack**.  
+ Porém quero um dia me dedicar à área de **Game Development**, unindo código e criatividade para criar experiências únicas!
 
 ---
 
-## 💾 Stack atual
+## Stack atual
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,linux,git,vscode)](https://skillicons.dev)
 
@@ -32,37 +32,18 @@
 
 ---
 
-## 👨‍🚀 Missão Atual
+## Missão Atual
 
-> "Leveling up todos os dias no mundo da programação, um commit por vez."
-
-🛠️ Em construção: Projetos pessoais, landing pages e experiências interativas.  
-🧩 Em paralelo: Estudos de algoritmos e estrutura de dados.
+> Atualmente focando em habilidades para back-end com Python, PHP e Bancos de Dados!
 
 ---
 
-## 👾 Código Konami
+## Jogos da vez
 
-```
-↑ ↑ ↓ ↓ ← → ← → B A Start
-```
+1. Call of Duty Black Ops 3
 
 ---
 
-```
-  ▄████▄   ▄▄▄       ███▄    █ ▓█████▄ 
- ▒██▀ ▀█  ▒████▄     ██ ▀█   █ ▒██▀ ██▌
- ▒▓█    ▄ ▒██  ▀█▄  ▓██  ▀█ ██▒░██   █▌
- ▒▓▓▄ ▄██▒░██▄▄▄▄██ ▓██▒  ▐▌██▒░▓█▄   ▌
- ▒ ▓███▀ ░ ▓█   ▓██▒▒██░   ▓██░░▒████▓ 
- ░ ░▒ ▒  ░ ▒▒   ▓▒█░░ ▒░   ▒ ▒  ▒▒▓  ▒ 
-   ░  ▒     ▒   ▒▒ ░░ ░░   ░ ▒░ ░ ▒  ▒ 
- ░          ░   ▒      ░   ░ ░  ░ ░  ░ 
- ░ ░            ░  ░         ░    ░    
- ░                               ░    
-```
+# <i>"Algumas vezes, o essêncial é o suficiente"</i>
 
-```
-          Obrigado por visitar meu perfil!
-        Que o código esteja sempre com você! 🚀
-```
+[![snake gif](https://github.com/GustavoHRX/GustavoHRX/blob/output/github-contribution-grid-snake.svg)](https://github.com/GustavoHRX)
