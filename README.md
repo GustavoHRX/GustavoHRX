@@ -45,4 +45,3 @@ Atualmente sou estudante de **Sistemas de Informação**, com foco em **aprendiz
 ---
 
 # <i>"Algumas vezes, o essêncial é o suficiente"</i>
-
