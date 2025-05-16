@@ -1,28 +1,42 @@
-<!--READ.ME 2.0-->
+<!-- README.md estilizado em tema Retro Games -->
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="350px" align="right">
+# 🎮 GustavoHRX - Start!
 
+![Retro Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=GustavoHRX&fontAlign=center&fontAlignY=40&color=0:ff0080,100:8a2be2&fontSize=50&animation=twinkling)
 
-<h3 align="left">Introdução</h3>
-<p align="left"> 
-  Olá, eu me chamo Gustavo!<br>
-  Atualmente sou estudante de <Strong>Sistemas de Informação</Strong> com foco em aprendizado contínuo!
-</p> 
-<br>
-<p align="left"> 
-  Sigo focando em aprender <Strong>Desenvolvimento Web</Strong>, tendo em mente ser Full-stack <br>
-  Porém quero um dia me dedicar a área de <Strong>Game-Development!</Strong>
-</p> 
+## 🕹️ Introdução
 
-<hr style="clear: both; border: none; border-top: 1px solid #ccc; margin-top: 20px;">
+🧑‍💻 Olá, eu me chamo **Gustavo**!  
+🎓 Atualmente sou estudante de **Sistemas de Informação**, com foco em **aprendizado contínuo** e **curiosidade infinita**!
 
-<h3 align="left">Redes Sociais</h3>
+👾 Sigo focando em aprender **Desenvolvimento Web**, tendo em mente ser **Full-stack**.  
+🚀 Porém quero um dia me dedicar à área de **Game Development**, unindo código e criatividade para criar experiências incríveis!
 
-<p align="left">
-  <a href="mailto:gustavohrodrigues78@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:gustavohrodrigues78@gmail.com" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/gustavo-henrique-rodrigues-8253b5240/" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-henrique-rodrigues-8253b5240/" alt="LinkedIn"/></a>
-  <a href="https://www.instagram.com/gustavoo_hrodrigues/" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/gustavoo_hrodrigues/" alt="Instagram"/></a>
-</p>
+---
+
+## 💾 Stack atual
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,linux,git,vscode)](https://skillicons.dev)
+
+## 🔗 Conecte-se comigo!
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seuperfil)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seuperfil)
+
+---
+
+## 👨‍🚀 Missão Atual
+> "Leveling up todos os dias no mundo da programação, um commit por vez."
+
+🛠️ Em construção: Projetos pessoais, landing pages e experiências interativas.  
+🧩 Em paralelo: Estudos de algoritmos e estrutura de dados.
+
+---
+
+## 👾 Bônus: Código Konami
+↑ ↑ ↓ ↓ ← → ← → B A Start  
+(Certifique-se de seguir para desbloquear o modo DevMaster)
+
+---
+
+![Pixel Art Footer](https://media.giphy.com/media/l0MYRzcWP9D3e3fPG/giphy.gif)
