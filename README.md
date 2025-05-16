@@ -1,21 +1,28 @@
-<!-- README.md estilizado em tema Retro Games -->
 
-# 🎮 GustavoHRX - Start!
-
-![Retro Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=GustavoHRX&fontAlign=center&fontAlignY=40&color=0:ff0080,100:8a2be2&fontSize=50&animation=twinkling)
+```
+███████╗██╗   ██╗ ██████╗ ███████╗████████╗ ██████╗ ██╗  ██╗
+██╔════╝██║   ██║██╔═══██╗██╔════╝╚══██╔══╝██╔═══██╗██║ ██╔╝
+█████╗  ██║   ██║██║   ██║███████╗   ██║   ██║   ██║█████╔╝ 
+██╔══╝  ██║   ██║██║   ██║╚════██║   ██║   ██║   ██║██╔═██╗ 
+██║     ╚██████╔╝╚██████╔╝███████║   ██║   ╚██████╔╝██║  ██╗
+╚═╝      ╚═════╝  ╚═════╝ ╚══════╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝
+```
 
 ## 🕹️ Introdução
 
 🧑‍💻 Olá, eu me chamo **Gustavo**!  
-🎓 Atualmente sou estudante de **Sistemas de Informação**, com foco em **aprendizado contínuo** e **curiosidade infinita**!
+🎓 Atualmente sou estudante de **Sistemas de Informação**, com foco em **aprendizado contínuo**!
 
 👾 Sigo focando em aprender **Desenvolvimento Web**, tendo em mente ser **Full-stack**.  
-🚀 Porém quero um dia me dedicar à área de **Game Development**, unindo código e criatividade para criar experiências incríveis!
+🚀 Porém quero um dia me dedicar à área de **Game Development**, unindo código e criatividade para criar experiências únicas!
 
 ---
 
 ## 💾 Stack atual
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,linux,git,vscode)](https://skillicons.dev)
+
+---
 
 ## 🔗 Conecte-se comigo!
 
@@ -26,6 +33,7 @@
 ---
 
 ## 👨‍🚀 Missão Atual
+
 > "Leveling up todos os dias no mundo da programação, um commit por vez."
 
 🛠️ Em construção: Projetos pessoais, landing pages e experiências interativas.  
@@ -33,10 +41,28 @@
 
 ---
 
-## 👾 Bônus: Código Konami
-↑ ↑ ↓ ↓ ← → ← → B A Start  
-(Certifique-se de seguir para desbloquear o modo DevMaster)
+## 👾 Código Konami
+
+```
+↑ ↑ ↓ ↓ ← → ← → B A Start
+```
 
 ---
 
-![Pixel Art Footer](https://media.giphy.com/media/l0MYRzcWP9D3e3fPG/giphy.gif)
+```
+  ▄████▄   ▄▄▄       ███▄    █ ▓█████▄ 
+ ▒██▀ ▀█  ▒████▄     ██ ▀█   █ ▒██▀ ██▌
+ ▒▓█    ▄ ▒██  ▀█▄  ▓██  ▀█ ██▒░██   █▌
+ ▒▓▓▄ ▄██▒░██▄▄▄▄██ ▓██▒  ▐▌██▒░▓█▄   ▌
+ ▒ ▓███▀ ░ ▓█   ▓██▒▒██░   ▓██░░▒████▓ 
+ ░ ░▒ ▒  ░ ▒▒   ▓▒█░░ ▒░   ▒ ▒  ▒▒▓  ▒ 
+   ░  ▒     ▒   ▒▒ ░░ ░░   ░ ▒░ ░ ▒  ▒ 
+ ░          ░   ▒      ░   ░ ░  ░ ░  ░ 
+ ░ ░            ░  ░         ░    ░    
+ ░                               ░    
+```
+
+```
+          Obrigado por visitar meu perfil!
+        Que o código esteja sempre com você! 🚀
+```
