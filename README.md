@@ -15,14 +15,13 @@ Bem, vindo ao meu **Github**!
 Atualmente, focando em **Desenvolvimento Web**, com o objetivo de me tornar um **Full Stack**.  
 Futuramente, pretendo também mergulhar no mundo do **Desenvolvimento de Jogos**
 
-## 🚀 Stack Atual
-[![My Skills](https://skillicons.dev/icons?i=html,css,python,php,mysql,git,linux)](https://skillicons.dev)
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+## 🚀 Stack Atual
+[![My Skills](https://skillicons.dev/icons?i=html,css,python,php,mysql,git,linux)](https://skillicons.dev)
 
 ## 🌐 Conecte-se comigo!
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seuusuario)
