@@ -4,7 +4,7 @@
 | | |_ | | | / __| __/ _` \ \ / / _ \| '_ \| '__\ \/ /
 | |__| | |_| \__ \ || (_| |\ V / (_) | | | | |   >  < 
  \_____|\__,_|___/\__\__,_| \_/ \___/|_| |_|_|  /_/\_\
-```
+
 
 ## 👋 Introdução
 
@@ -14,13 +14,12 @@ Sou estudante de **Sistemas de Informação**, apaixonado por tecnologia e apren
 Atualmente, estou focado em **Desenvolvimento Web**, com o objetivo de me tornar um **Desenvolvedor Full Stack**.  
 No futuro, pretendo também mergulhar no mundo do **Desenvolvimento de Jogos**, unindo lógica e criatividade para construir experiências incríveis.
 
----
+
 
 ## 🚀 Stack Atual
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,python,php,mysql,git,linux)](https://skillicons.dev)
 
----
 
 ## 🌐 Conecte-se comigo!
 
@@ -31,19 +30,19 @@ No futuro, pretendo também mergulhar no mundo do **Desenvolvimento de Jogos**, 
 - 💬 [Discord](https://discord.gg/seuserver)  
 &nbsp;
 
----
+
 
 ## 🎯 Missão Atual
 
 > Estudando back-end com foco em **Python**, **PHP** e **Banco de Dados** relacionais.
 
----
+
 
 ## 🎮 Jogos da vez
 
 1. Call of Duty: Black Ops 3
 
----
+
 
 ## 💭 Frase do momento
 
