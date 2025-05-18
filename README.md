@@ -17,10 +17,11 @@ Bem, vindo ao meu **Github**!
 Atualmente, focando em **Desenvolvimento Web**, com o objetivo de me tornar um **Full Stack**.  
 Futuramente, pretendo também mergulhar no mundo do **Desenvolvimento de Jogos**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gustavohrx&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="49.5%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohrx&layout=compact&theme=radical" alt="Top Languages" width="49.5%" />
+</div>
+
 
 ## 🎯 Missão Atual
 
