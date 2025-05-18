@@ -36,7 +36,7 @@ Futuramente, pretendo também mergulhar no mundo do **Desenvolvimento de Jogos**
 ## 🌐 Conecte-se comigo!
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavoo_hrodrigues/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-henrique-rodrigues?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-![Badge personalizada](https://img.shields.io/badge/TEXTO1-TEXTO2-COR?style=for-the-badge)
+![Badge personalizada](https://img.shields.io/badge/Discord-gustavohrx-5865F2?style=for-the-badge)
 
 
 ## 🎮 Jogos da vez
