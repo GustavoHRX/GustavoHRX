@@ -11,17 +11,18 @@
 
 ## 👋 Introdução
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gustavohrx&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="49.5%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohrx&layout=compact&theme=radical" alt="Top Languages" width="37.5%" />
+</div>
+---
+<br>
+
 Olá, eu me chamo **Gustavo**!  
 Bem, vindo ao meu **Github**!
 
 Atualmente, focando em **Desenvolvimento Web**, com o objetivo de me tornar um **Full Stack**.  
 Futuramente, pretendo também mergulhar no mundo do **Desenvolvimento de Jogos**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gustavohrx&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="49.5%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohrx&layout=compact&theme=radical" alt="Top Languages" width="37.5%" />
-</div>
-
 
 ## 🎯 Missão Atual
 
@@ -33,10 +34,8 @@ Futuramente, pretendo também mergulhar no mundo do **Desenvolvimento de Jogos**
 ---
 
 ## 🌐 Conecte-se comigo!
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seuusuario)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavoo_hrodrigues/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seuusuario)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@seucanal)
-[![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://seuperfil.substack.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/seuserver)
 
 ## 🎮 Jogos da vez
