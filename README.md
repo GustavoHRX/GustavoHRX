@@ -15,29 +15,9 @@
 </div> 
 
 <br>
-
-## 👋 Introdução
-<br>
-
-Olá, eu me chamo **Gustavo**!  
-Bem, vindo ao meu **Github**!
-
-Atualmente, focando em **Desenvolvimento Web**, com o objetivo de me tornar um **Full Stack**.  
-Futuramente, pretendo também mergulhar no mundo do **Desenvolvimento de Jogos**
-
-<br>
-
-## 🎯 Missão Atual
-
-> Estudando back-end com foco em **Python**, **PHP** e **Banco de Dados** relacionais.
-
-<br>
-
-## 🚀 Stack Atual
-[![My Skills](https://skillicons.dev/icons?i=html,css,python,php,mysql,git,linux)](https://skillicons.dev)
-
-<br>
-
+<div>
+  WIP
+</div>
 ---
 
 ## 🌐 Conecte-se comigo!
