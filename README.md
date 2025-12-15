@@ -9,14 +9,10 @@
 ---
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gustavohrx&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="49.5%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohrx&layout=compact&theme=radical" alt="Top Languages" width="37.5%" />
-</div> 
-
-<br>
 <div>
-  WIP
+
+## <i>Nada a adicionar ainda</i>
+  
 </div>
 ---
 
