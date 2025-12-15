@@ -8,5 +8,5 @@
 ```
 ---
 <div align="center">
-<h1> > <i>"Algumas vezes, o essencial é o suficiente."</i> <</h1>
+<h1> > <i>"Sem repositórios suficientes para adicionar. >:("</i> <</h1>
 </div>
