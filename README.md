@@ -7,5 +7,6 @@
                                  \_____|\__,_|___/\__\__,_| \_/ \___/|_| |_|_|  /_/\_\
 ```
 ---
-
+<div align="center">
 ## > <i>"Algumas vezes, o essencial é o suficiente."</i>
+</div>
